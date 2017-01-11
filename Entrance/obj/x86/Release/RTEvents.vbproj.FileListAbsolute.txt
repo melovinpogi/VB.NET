@@ -1,0 +1,39 @@
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\Interop.zkemkeeper.dll
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.vbproj.ResolveComReference.cache
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.exe
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.xml
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\bin\x86\Release\RTEvents.exe.manifest
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\bin\x86\Release\RTEvents.application
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\bin\x86\Release\RTEvents.exe
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\bin\x86\Release\RTEvents.pdb
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\bin\x86\Release\RTEvents.xml
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\bin\x86\Release\Interop.zkemkeeper.dll
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.RTEvents.resources
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.Resources.resources
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.vbproj.GenerateResource.Cache
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.TrustInfo.xml
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.exe.manifest
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.application
+C:\Users\IPIC-MELO\Downloads\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\VB.net\TFT\RTEvents\obj\x86\Release\RTEvents.pdb
+D:\RTEvents\obj\x86\Release\Interop.zkemkeeper.dll
+D:\RTEvents\obj\x86\Release\RTEvents.vbproj.ResolveComReference.cache
+D:\RTEvents\obj\x86\Release\RTEvents.exe
+D:\RTEvents\obj\x86\Release\RTEvents.xml
+D:\RTEvents\obj\x86\Release\RTEvents.pdb
+D:\RTEvents\bin\x86\Release\RTEvents.exe.manifest
+D:\RTEvents\bin\x86\Release\RTEvents.application
+D:\RTEvents\bin\x86\Release\RTEvents.exe
+D:\RTEvents\bin\x86\Release\RTEvents.pdb
+D:\RTEvents\bin\x86\Release\RTEvents.xml
+D:\RTEvents\bin\x86\Release\Interop.zkemkeeper.dll
+D:\RTEvents\obj\x86\Release\RTEvents.RTEvents.resources
+D:\RTEvents\obj\x86\Release\RTEvents.Resources.resources
+D:\RTEvents\obj\x86\Release\RTEvents.vbproj.GenerateResource.Cache
+D:\RTEvents\obj\x86\Release\RTEvents.TrustInfo.xml
+D:\RTEvents\obj\x86\Release\RTEvents.exe.manifest
+D:\RTEvents\obj\x86\Release\RTEvents.application
+D:\IPIC\obj\x86\Release\Interop.zkemkeeper.dll
+D:\IPIC\obj\x86\Release\RTEvents.vbproj.ResolveComReference.cache
+D:\IPIC\obj\x86\Release\RTEvents.exe
+D:\IPIC\obj\x86\Release\RTEvents.xml
+D:\IPIC\obj\x86\Release\RTEvents.pdb

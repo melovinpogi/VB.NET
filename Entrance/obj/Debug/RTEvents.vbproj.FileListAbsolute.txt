@@ -1,0 +1,17 @@
+D:\IPIC\obj\Debug\Interop.zkemkeeper.dll
+D:\IPIC\obj\Debug\RTEvents.vbproj.ResolveComReference.cache
+D:\IPIC\bin\Debug\RTEvents.exe.manifest
+D:\IPIC\bin\Debug\RTEvents.application
+D:\IPIC\bin\Debug\RTEvents.exe
+D:\IPIC\bin\Debug\RTEvents.pdb
+D:\IPIC\bin\Debug\RTEvents.xml
+D:\IPIC\bin\Debug\Interop.zkemkeeper.dll
+D:\IPIC\obj\Debug\RTEvents.Resources.resources
+D:\IPIC\obj\Debug\RTEvents.vbproj.GenerateResource.Cache
+D:\IPIC\obj\Debug\RTEvents.TrustInfo.xml
+D:\IPIC\obj\Debug\RTEvents.exe.manifest
+D:\IPIC\obj\Debug\RTEvents.application
+D:\IPIC\obj\Debug\RTEvents.exe
+D:\IPIC\obj\Debug\RTEvents.xml
+D:\IPIC\obj\Debug\RTEvents.pdb
+D:\IPIC\obj\Debug\RTEvents.Main.resources
